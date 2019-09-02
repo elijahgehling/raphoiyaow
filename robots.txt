@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hienooxath.lucadegasperi.com/sitemap.xml
